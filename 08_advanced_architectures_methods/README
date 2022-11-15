@@ -1,0 +1,4 @@
+I want to apply AI to languages. To be able to predict and create new words from the English language in a point in time for example the ELizabethan era and see if 
+AI knows how the language can involved. I would use Corpuses of English words probably old English from the time period. I think I will use GAN for this and the metric used
+for success is the true positives/false negative. If there is a high success, the machine can perhaps predict if words are borrowed in other languages. This can help
+language learners understand.
